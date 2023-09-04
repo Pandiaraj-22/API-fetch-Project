@@ -1,0 +1,36 @@
+body{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.nav{
+    background-color:#0085FE ;
+    height: 4em;
+    width: 100%;
+    position: fixed;
+    margin: 0;
+    padding: 1rem;
+    padding-left: 2em !important;
+    color: white;
+    top: 0;
+    font-size: 1.2rem;
+    box-sizing: border-box;
+}
+
+#cards{
+    margin: 3rem !important;
+    margin-top: 7rem !important;
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card{
+    background-color: #9AEFF4 !important;
+    border: 1px solid aqua !important;
+}
+
+h5{
+    font-size: 1.1rem !important;
+}
